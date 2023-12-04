@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707318873674",
+    "project_id": "fraudfighter-2023",
+    "storage_bucket": "fraudfighter-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707318873674:android:fefdcac3669b04e9d9f0b3",
+        "android_client_info": {
+          "package_name": "com.example.blacklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oI848QkwFGeB_6tQaocEyB_mpSdINAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
